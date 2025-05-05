@@ -1,17 +1,17 @@
-<h1>Hola Soy Lucas Barrera</h1>
-        <h2>Futuro programador y ingeniero en sistemas</h2>
+<h1>¡Hola!, soy Lucas Barrera</h1>
+        <h2>Futuro programador y Ingeniero en Sistemas de Información</h2>
 
 <h1>Sobre mí</h1>
-<p>Soy un chico que esta muy interesado en el mundo de lo virtual, desde pequeño me ha llamado mucho la atencion los dispositivos electronicos, ahora vengo a aprender sobre lo que siempre quise y espero que me vaya bien</p>
+<p>Soy una persona con un profundo interés en el mundo virtual. Desde temprana edad, los dispositivos electrónicos han captado mi atención de manera especial. Actualmente, he decidido emprender el camino de aprendizaje en un área que siempre me ha apasionado, y confío en que esta experiencia será positiva y enriquecedora.</p>
 
 <h1>Habilidades</h1>
-<p>Control de Versiones: Git (medio), GitHub (medio)</p>
-<p>Herramientas y Tecnologías: Visual Studio Code (medio)</p>
-<p>Idiomas: Español (nativo), Inglés (medio)</p>
+<p>Control de Versiones: Git (medio), GitHub (intermedio)</p>
+<p>Herramientas y Tecnologías: Visual Studio Code (intermedio)</p>
+<p>Idiomas: Español (nativo), Inglés (intermedio)</p>
 
 <h1>Proyectos Destacados</h1>
 <h2>Trabajo Práctico Portfolio</h2>
-<p>Descripción: En este trabajo me base en un portfolio que es el siguiente https://www.behance.net/gallery/188167539/I-will-Do-Personal-Portfolio-Website-In-Figma?tracking_source=search_projects%7Cpersonal+website&l=14&log_shim_removal=1, aplicando las tecnicas de programacion que se y informacion personal</p>
+<p>Descripción: Para la realización de este trabajo, tomé como referencia un portafolio disponible en el siguiente enlace: https://www.behance.net/gallery/188167539/I-will-Do-Personal-Portfolio-Website-In-Figma. A partir de este modelo, apliqué las técnicas de programación que poseo actualmente, incorporando además información personal para adaptar el diseño a mi perfil.</p>
 <p>Repositorio: https://wondrous-manatee-1aa9c7.netlify.app/ </p>
 
 <h1>Contacto</h1>
